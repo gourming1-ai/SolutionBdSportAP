@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AppliBdSportAP/AppliBdSportAP.csproj" Id="2486ffa3-27ee-4c24-a81c-660f5d3c0d23" />
+  <Project Path="BiblioSportif/BiblioSportif.csproj" Id="e0b7ee1d-811d-4164-985d-6de7e9d8be31" />
+  <Project Path="BiblioSportifDAO/BiblioSportifDAO.csproj" Id="f100e0e1-1661-4fe5-9473-fde93eef1955" />
+</Solution>
